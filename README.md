@@ -12,4 +12,4 @@ GIF图像显示见下图
 
 
 
-![拖拉拽流程编辑器](.\拖拉拽流程编辑器.gif)
+![拖拉拽流程编辑器](https://github.com/user-attachments/assets/1c6286d2-dce6-412f-b325-22f0d7b5cc80)
